@@ -1,0 +1,57 @@
+body {
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #B0C4DE;
+    text-align:center;
+    text-decoration: none;
+    color: black;
+}
+
+#main {
+  }
+
+#title {
+}
+
+#img-div {
+    
+}
+
+img {
+    display: block;
+    max-width: 55%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+
+h2 {
+    
+}
+
+
+
+
+#tribute-info {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+ul {
+    width: 65%;
+    max-width: 1200px;
+    height: auto;
+    margin-left: 17%;
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: blue;
+    font-size: 120%;
+}
